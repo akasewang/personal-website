@@ -15,7 +15,7 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
-        accent: "#6495ED",
+        accent: "#EEEE9B",
       },
     },
   },
